@@ -1,6 +1,6 @@
 package mundo;
 
-//Hola mundo.java
+//HolaMundo.java
 public class HolaMundo {
  public static void main(String[] args) {
     System.out.printIn("Hola, chicos!");
